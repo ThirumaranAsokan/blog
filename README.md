@@ -1,5 +1,5 @@
-# blog
-#This is my personal portfolio or website 
+# Portfolio
+#This is my personal portfolio or website codes available
 Still its on Working process
 MIT License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
